@@ -45,4 +45,10 @@ public class MainActivity extends AppCompatActivity {
         //Respond to the button
     }
 
+    public void showSweetRecipes(View view){
+        Intent intent = new Intent(this, DisplaySweetRecipes.class);
+        startActivity(intent);
+
+    }
+
 }

@@ -5,4 +5,6 @@
     <string name="title_notifications">Notifications</string>
     <string name="edit_message">Tell us your thoughts</string>
     <string name="button_send">Send</string>
+    <string name="sweet">Sweet</string>
+    <string name="savory">Savory</string>
 </resources>
